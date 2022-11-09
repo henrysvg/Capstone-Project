@@ -15,9 +15,8 @@ Barnes and Noble is looking to rebrand their company by partnering with goodread
 
 ## Data Understanding
 
-This dataset contains more than 1.3M book reviews about 25,475 books and 18,892 users. It was found through the Kaggle Good Reads Book Competition. A train & test set are provided.
+This dataset contains more than 1.3M book reviews about 25,475 books and 18,892 users. It was found through the [Kaggle Good Reads Competition](https://www.kaggle.com/competitions/goodreads-books-reviews-290312/overview). A train & test set are provided.
 
 The dataset of this competition is taken from UCSD Book Graph.
 
-Link to Kaggle Competition: https://www.kaggle.com/competitions/goodreads-books-reviews-290312/overview
 
