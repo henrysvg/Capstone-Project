@@ -95,7 +95,7 @@ The best performing model was Multinomial NB with Gridsearch.
 
 A confusion matrix was utilized to showcase largest area of mislabeled reviews.
 
-![Matrix_One.png](./Images/Matrix_One.png)
+![Matrix_1.png](./Images/Matrix_1.png)
 
 ### Classification Report
 
