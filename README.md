@@ -39,30 +39,6 @@ The second approach grouped ratings into two categories.  Where a rating of 5 & 
 * 1:37,410
 * 0:62,590
 
-## Word Cloud of Individual Ratings's
-
-Word clouds were created show any major differences in word usage throughout the ratings.  Stop words were removed prior to making word clouds.
-
-### Five Rating Word Cloud
-
-![WC_Five.png](./Images/WC_Five.png)
-
-### Five Rating Word Cloud
-
-![WC_Four.png](./Images/WC_Four.png)
-
-### Five Rating Word Cloud
-
-![WC_Three.png](./Images/WC_Three.png)
-
-### Five Rating Word Cloud
-
-![WC_Two.png](./Images/WC_Two.png)
-
-### Five Rating Word Cloud
-
-![WC_One.png](./Images/WC_One.png)
-
 ## NLP
 
 Natural Langauge Processing was utilized to clean the book review data.  This process included:
@@ -118,6 +94,18 @@ A confusion matrix was utilized to showcase largest area of mislabeled reviews.
 A classification report was run on the best model.  This model has an accuracy of 78%.
 
 ![Class_Two.png](./Images/Class_Two.png)
+
+## Utilizing Lime with Version Two Best Fit Model
+
+Lime was utilized with the version two best fit model.  Lime was utilized to showcase the predictions within our best fit model.
+
+### Lime on High Rating (4 & 5)
+
+![High_Rating.png](./Images/High_Rating.png)
+
+### Lime on Low Rating (1, 2, & 3)
+
+![Low_Rating.png](./Images/Low_Rating.png)
 
 ## Conclusion & Next Steps
 
